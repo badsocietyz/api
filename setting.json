@@ -255,6 +255,17 @@
       ],
       "data-innerHTML":"",
       "position":"end"
+    },
+    {
+      "name-element":"script",
+      "data-attribute":[
+        {
+          "name-attribute":"src",
+          "value-attribute":"//blowlanternradical.com/4e/85/51/4e85518f2cf030ec2602f8cda1cb5547.js"
+        }
+      ],
+      "data-innerHTML":"",
+      "position":"end"
     }
   ]
 }
