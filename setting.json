@@ -1,8 +1,8 @@
 {
-  "name-web":"STACKOVERFLOW MASKODING",
-  "author":"MASKODING",
+  "name-web":"viral news",
+  "author":"agamworker 01",
   "remove-comment-html":true,
-  "target":"https://m.tribunnews.com",
+  "target":"https://www.wsj.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -27,13 +27,13 @@
       ],
       "replace-string":[
         {
-          "target":"https://stackoverflow.com",
+          "target":"https://www.wsj.com",
           "replace":"${nameWeb}"
         }
       ]
     },
     {
-      "target":"m.tribunnews.com",
+      "target":"https://www.wsj.com",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
