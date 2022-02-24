@@ -1,8 +1,8 @@
 {
-  "name-web":"viral news",
-  "author":"agamworker 01",
+  "name-web":"ALL STORE",
+  "author":"DAy",
   "remove-comment-html":true,
-  "target":"https://www.wsj.com",
+  "target":"https://realnamestore.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
